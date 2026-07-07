@@ -1,6 +1,6 @@
-##  Look here :
+##  It's Me :
 <h1 align="center">Hi 👋, I'm Akanksha Upadhyay</h1>
-<h3 align="center">MCA Student at IIIT Vadodara | Java Developer | DSA Learner | Aspiring Software Engineer</h3>
+<h3 align="center">MCA Student at IIIT Vadodara | Java Developer | DSA Learner | Aspiring Software Engineer/Data Science</h3>
 
 
 # 💫 About Me:
