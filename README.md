@@ -20,9 +20,23 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,mysql,html,css" />
-</p>
+## 💻 Tech Stack
+
+☕ **Java**
+
+🐍 **Python**
+
+💛 **JavaScript**
+
+🌱 **Git**
+
+🐙 **GitHub**
+
+🗄️ **MySQL**
+
+🌐 **HTML5**
+
+🎨 **CSS3**
 
 
 
