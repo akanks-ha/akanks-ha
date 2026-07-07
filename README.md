@@ -20,8 +20,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ☕ **Java**
 
 🐍 **Python**
