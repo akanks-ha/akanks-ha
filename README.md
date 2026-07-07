@@ -1,3 +1,8 @@
+##  Look here :
+<h1 align="center">Hi 👋, I'm Akanksha Upadhyay</h1>
+<h3 align="center">MCA Student at IIIT Vadodara | Java Developer | DSA Learner | Aspiring Software Engineer</h3>
+
+
 # 💫 About Me:
 🎓 MCA Student at IIIT Vadodara
 
@@ -8,9 +13,6 @@
 🎯 Goal: Crack a Software Development/Data Science role
 
 📫 Reach me: akupandit37@gmail.com
-
-
-
 
 ## 🌐 Connect with Me
 
@@ -36,7 +38,31 @@
 
 🎨 **CSS3**
 
+## 🚀 Currently Working On
 
+📚 Solving DSA problems daily
+
+☕ Improving Java programming skills
+
+🌱 Learning Python for Data Science
+
+💻 Building projects to strengthen development skills
+
+## 🎯 2026 Goals :
+
+✅ Solve 500+ DSA Problems
+
+✅ Build Java Projects
+
+✅ Learn Data Science
+
+✅ Crack a Software Development Internship
+
+✅ Contribute to Open Source
+
+## 💭 Quote
+
+> "Consistency beats intensity. One step every day leads to success."
 
 # 📊 GitHub Stats:
 
