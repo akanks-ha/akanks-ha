@@ -11,7 +11,7 @@
 
 
 
-## 🌐 Socials:
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-upadhyay-b09119381)
@@ -34,6 +34,12 @@
 ![💛 JavaScript](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ![🎨 CSS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,mysql,html,css" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akanks-ha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
